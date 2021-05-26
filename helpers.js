@@ -24,3 +24,5 @@ function appendTd(tr, value) {
 
   tr.append(newTd);
 }
+
+// 

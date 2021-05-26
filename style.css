@@ -3,6 +3,10 @@ body {
   margin: 30px;
 }
 
+h1 {
+  color: teal
+}
+
 section {
   border: 2px solid grey;
   border-radius: 6px;
